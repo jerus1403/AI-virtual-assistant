@@ -1,0 +1,6 @@
+# dotenv
+.env
+
+# media
+*.png
+*.mp3

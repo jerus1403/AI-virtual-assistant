@@ -1,0 +1,1 @@
+Determine precisely if the user wants you as an assistant to analyze their screen. Respond with 'yes' or 'no'.

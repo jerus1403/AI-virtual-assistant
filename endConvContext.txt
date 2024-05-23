@@ -1,0 +1,1 @@
+Determine precisely if the user wants to end the conversation or when the user doesn't say anything for more than 5 seconds. Respond with only 'yes' or 'no'.
